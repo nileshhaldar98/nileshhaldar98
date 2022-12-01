@@ -39,15 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nileshhaldar98&show_icons=true&locale=en" alt="nileshhaldar98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshhaldar98&" alt="nileshhaldar98" /></p>
-<!--START_SECTION:activity-->
-#
 
-[//]: <img align="center" src="https://github-readme-stats.vercel.app/api/?username=shubzhub&theme=dracula>
-
-<a href="https://app.daily.dev/Shubhangi07"><img src="https://api.daily.dev/devcards/2f74e3199e5c4577b6b6f2085c33f9d8.png?r=h5g" width="400" alt="Shubhangi Mainalli's Dev Card"/></a>
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=codewithshubhi.codewithshubhi)
-
-
-<!--END_SECTION:activity-->
