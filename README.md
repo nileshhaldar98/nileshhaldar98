@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh Haldar</h1>
-<h3 align="center">A Passionate Backend Developer from India</h3>
+<h3 align="center">A Passionate Full-Stack Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nileshhaldar98&label=Profile%20views&color=0e75b6&style=flat" alt="nileshhaldar98" />
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1hLHe3NgTEb6ouSxbQAJpdNNUK_jONXhi/view)
 
-- 👨‍💻 All of my projects are available at: [Portfolio](https://portfolio.nileshhaldar98.tech)
+- 👨‍💻 All of my projects are available at: [Portfolio](https://wwww.nileshhaldar98.tech)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
