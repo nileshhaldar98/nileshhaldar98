@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1hLHe3NgTEb6ouSxbQAJpdNNUK_jONXhi/view)
 
-- 👨‍💻 All of my projects are available at: [Portfolio](https://wwww.nileshhaldar98.tech)
+- 👨‍💻 All of my projects are available at: [Portfolio](https://www.nileshhaldar98.tech)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
