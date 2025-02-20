@@ -14,7 +14,7 @@ I'm a **Java Developer** with a strong passion for building scalable and efficie
 - 🌱 I’m currently learning **Microservices Architecture** and **Docker**.
 - 💬 Ask me about **Java, Spring Boot, or Backend Development**.
 - 📫 How to reach me: **nileshhaldar98@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1hLHe3NgTEb6ouSxbQAJpdNNUK_jONXhi/view) for more details.
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1zs5G9zX6m7twtc--5hVURapdB1k6Wozn/view/view) for more details.
 - 👨‍💻 Explore my projects at: [Portfolio](https://www.nileshhaldar98.tech)
 
 ---
