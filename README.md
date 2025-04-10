@@ -47,15 +47,4 @@ I’m a **MERN Stack Developer** with over **1 year of experience**, passionate 
 </p>
 
 ---
-
-### ☕ Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/nileshhaldar98" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</p>
-
----
-
 <h3 align="center">Let’s collaborate and build something extraordinary! 🚀</h3>
