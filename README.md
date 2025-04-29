@@ -52,9 +52,7 @@ I’m a **MERN Stack Developer** with over **1 year of experience**, passionate 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nileshhaldar98&show_icons=true&theme=github_dark&hide_border=true" alt="Nilesh Haldar GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshhaldar98&theme=github-dark&hide_border=true" alt="Nilesh Haldar GitHub Streak" />
