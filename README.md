@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;MERN+Stack+Developer+from+India;Turning+Ideas+Into+Scalable+Products;Always+Learning.+Always+Building." alt="Animated Typing Introduction" />
 </a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=nileshhaldar98&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/nileshhaldar98?label=FOLLOWERS&style=for-the-badge&color=6366f1&logo=github" alt="GitHub Followers" />
 <a href="https://www.nileshhaldar98.tech">
   <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" />
