@@ -56,31 +56,6 @@ const nilesh = {
 
 ⸻
 
-<!-- ==================== TECH STACK ==================== -->
-
-> tech_stack --list
-
-<div align="center">
-
-Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" alt="JavaScript TypeScript HTML CSS" />
-
-Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,bootstrap&theme=dark" alt="React Vite Next.js Tailwind Bootstrap" />
-
-Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma&theme=dark" alt="Node Express MongoDB PostgreSQL Prisma" />
-
-Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify&theme=dark" alt="Git GitHub Docker Postman Vercel Netlify" />
-</div>
-
-⸻
-
 <!-- ==================== CONNECT ==================== -->
 
 > connect --with-nilesh
