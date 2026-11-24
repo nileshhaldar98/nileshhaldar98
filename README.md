@@ -55,6 +55,18 @@ const nilesh = {
 <br clear="right"/>
 
 ⸻
+## ⚡ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+## 📊 GitHub Analytics
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nileshhaldar98&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshhaldar98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE)
+
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=nileshhaldar98&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=818CF8&point=FFFFFF&area=true)
+
+⸻
+
 
 <!-- ==================== CONNECT ==================== -->
 
